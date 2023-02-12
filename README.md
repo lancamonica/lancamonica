@@ -1,7 +1,7 @@
 ### Olá, eu sou a Monica Lança!
 
-- 🔭 Atualmente trabalho com HTML5, JavaScript, CSS, SASS, ReactJS, Redux
-- 🌱 Estou estudando TypeScript e me aprofundando mais no mundo do css
+- 🔭 Atualmente trabalho com HTML5, JavaScript, CSS, SASS, Nuxt.js, Vue.js e Pinia.
+- 🌱 Estou estudando Node.js com Express e me aprofundando mais no mundo Full Stack!
 
 <div>
   <a href="https://github.com/lancamonica">
@@ -16,6 +16,10 @@
   <img align="center" alt="Monica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Monica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Monica-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Monica-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Monica-NUXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Monica-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Monica-GRAPHQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
 </div>
   
 ##
